@@ -3,8 +3,8 @@ const router = express.Router();
 
 router.get('/', (req, res) => {
     res.send({
-        titulo: "10 Linguagens de Programação populares",
-        data: "21/09/2020"
+        titulo: "Os melhores Restaurantes de Recife segundo o Fork",
+        data: "23/09/2020"
     })
 });
 
