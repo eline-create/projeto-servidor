@@ -1,0 +1,71 @@
+[{        
+    "id": 1,
+    "city": "Hong Kong",
+    "nativeLanguage": "Cantonês",
+    "localCurrency": "Dólar de Hong Kong",
+    "continent": "Asiático"      
+    },
+    {        
+    "id": 2,
+    "city": "Bangkok",
+    "nativeLanguage": "Tailandês",
+    "localCurrency": "Baht (THB)",
+    "continent": "Asiático"      
+    },
+    {        
+    "id": 3,
+    "city": "Londres",
+    "nativeLanguage": "Inglês",
+    "localCurrency": "Libra esterlina",
+    "continent": "Europeu"      
+    },    
+    {        
+    "id": 4,
+    "city": "Macau",
+    "nativeLanguage": ["Chinês", "Portugês"],
+    "localCurrency": "Pataca",
+    "continent": "Asiático"      
+    },
+    {        
+    "id": 5,
+    "city": "Singapura",
+    "nativeLanguage": ["Inglês", "Malaio", "Tâmil", "Mandarim"],
+    "localCurrency": "Dólar de Singapura",
+    "continent": "Asiático"      
+    },
+    {        
+    "id": 6,
+    "city": "Paris",
+    "nativeLanguage": "Francês",
+    "localCurrency": "Euro",
+    "continent": "Europeu"      
+    },
+    {        
+    "id": 7,
+    "city": "Dubai",
+    "nativeLanguage": ["Árabe", "Urdu", "Persa", "Hindi", "Malaiala", "Tâmil", "Tagalo", "Chinês"],
+    "localCurrency": "Dirhams",
+    "continent": "Asiático"      
+    },
+    {        
+    "id": 8,
+    "city": "Nova York",
+    "nativeLanguage": "Inglês",
+    "localCurrency": "Dólar",
+    "continent": "Americano"      
+    },
+    {        
+    "id": 9,
+    "city": "Kuala Lumpur",
+    "nativeLanguage": "Bahasa Melayu",
+    "localCurrency": "Dólar",
+    "continent": "Asiático"      
+    },    
+    {        
+    "id": 10,
+    "city": "Istambul",
+    "nativeLanguage": "Turco",
+    "localCurrency": "Lira Turca",
+    "continent": "Asiático"      
+    }
+]
