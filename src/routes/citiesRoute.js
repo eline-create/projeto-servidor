@@ -6,6 +6,6 @@ const controller = require("../controller/citiesController");
 
 router.get("/", controller.getAll);
 router.get("/cities", controller.getAll);
-router.get("/:id", controller.getById);
+router.get("/city", controller.getByCity);
 
 module.exports = router

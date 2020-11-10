@@ -8,11 +8,11 @@ const getAll =  (req, res) => {
 
 };
 
-const getById = (req, res) => {
-    const id = req.params.id;
+const getByCity = (req, res) => {
+    const city = req.params.city;
 
-    res.send(cities.find((cities) => cities.id == id));
+    res.send(cities.filter((cities) => cities.city == city));
 };
 
-module.exports = { getAll, getById };
+module.exports = { getAll, getByCity };
 

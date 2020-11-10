@@ -5,7 +5,7 @@ const app = express();
 
 const index =  require('./routes/index');
 const cities = require('./routes/citiesRoute');
-const id = require('./routes/citiesRoute');
+const city = require('./routes/citiesRoute');
 
 app.use((req, res, next) => {
     console.log('Nova requisicao realizada')
@@ -16,7 +16,7 @@ app.use((req, res, next) => {
 
 app.use('/', index);
 app.use('/cities', cities);
-app.use('/:id', id)
+app.use('/:city', city)
 
 
 module.exports = app;

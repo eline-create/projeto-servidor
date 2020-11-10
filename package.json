@@ -1,0 +1,32 @@
+{
+  "name": "projeto-servidor",
+  "version": "1.0.0",
+  "description": "Criação de servidor para arquivos json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eline-create/projeto-servidor.git"
+  },
+  "keywords": [
+    "json",
+    "JavaScript",
+    "server",
+    "modules",
+    "routes"
+  ],
+  "author": "Eline Pimentel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eline-create/projeto-servidor/issues"
+  },
+  "homepage": "https://github.com/eline-create/projeto-servidor#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {}
+}
