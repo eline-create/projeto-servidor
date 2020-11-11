@@ -9,63 +9,63 @@
     "id": 2,
     "name": "Java",
     "creationYear": "Década de 1990",
-    "author": ["James Gosling"],
-    "commentSymbol": ["//"]           
+    "author": "James Gosling",
+    "commentSymbol": "//"           
     },
     {        
     "id": 3,
     "name": "Python",
     "creationYear": 1991,
-    "author": ["Guido van Rossum"],
-    "commentSymbol": ["#"]           
+    "author": "Guido van Rossum",
+    "commentSymbol": "#"           
     },
     {        
     "id": 4,
     "name": "JavaScript",
     "creationYear": 1995,
-    "author": ["Brendan Eich"],
-    "commentSymbol": ["//"]           
+    "author": "Brendan Eich",
+    "commentSymbol": "//"           
     },
     {        
     "id": 5,
     "name": "PHP: Hypertext Preprocessor",
     "creationYear": 1995,
-    "author": ["Rasmus Lerdorf"],
-    "commentSymbol": ["//"]           
+    "author": "Rasmus Lerdorf",
+    "commentSymbol": "//"          
     },
     {        
     "id": 6,
     "name": "R",
     "creationYear": 1993,
-    "author": ["Ross Ihaka", "Robert Gentleman"],
-    "commentSymbol": ["#"]           
+    "author": "Ross Ihaka e Robert Gentleman",
+    "commentSymbol": "#"           
     },
     {        
     "id": 7,
     "name": "SQL",
     "creationYear": 1974,
-    "author": ["Donald D. Chamberlin", "Raymond F. Boyce"],
-    "commentSymbol":["/"]           
+    "author": "Donald D. Chamberlin e Raymond F. Boyce",
+    "commentSymbol": "/"           
     },
     {        
     "id": 8,
     "name": "Swift",
     "creationYear": 2014,
-    "author": ["Chris Lattne"],
-    "commentSymbol": ["//" , "@"]           
+    "author": "Chris Lattne",
+    "commentSymbol": "// ou @"           
     },
     {        
     "id": 9,
     "name": "Ruby",
     "creationYear": 1995,
-    "author": ["Yukihiro Matsumoto"],
-    "commentSymbol": ["=begin","=end"]           
+    "author": "Yukihiro Matsumoto",
+    "commentSymbol": "=begin e =end"           
     },
     {        
     "id": 10,
     "name": "Perl",
     "creationYear": 1987,
-    "author": ["Larry Wall"],
-    "commentSymbol": ["#","=begin","=cut"]           
+    "author": "Larry Wall",
+    "commentSymbol": "#, =begin, =cut"           
     }
 ]
